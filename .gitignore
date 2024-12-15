@@ -1,0 +1,5 @@
+*.png
+*.jpg
+data/
+processing_results/
+*__pycache__/
